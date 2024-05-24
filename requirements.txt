@@ -1,0 +1,3 @@
+tqdm
+requests
+undetected_chromedriver
